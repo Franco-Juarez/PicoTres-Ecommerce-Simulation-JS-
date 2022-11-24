@@ -106,8 +106,8 @@ function addDeleteAction () {
             icon: "warning",
             title: "You want to delete this product?",
             showCancelButton: true,
-            confirmButtonText: "Eliminar",
-            cancelButtonText: "Cancelar",
+            confirmButtonText: "Delete",
+            cancelButtonText: "Cancel",
             confirmButtonColor: '#121214',
             cancelButtonColor: '#d33'
         }).then((res) => {
