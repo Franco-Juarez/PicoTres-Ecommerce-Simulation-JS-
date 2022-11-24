@@ -1,0 +1,139 @@
+
+[
+    {
+    "idProduct": 10,
+    "name": "Feeling Blues",
+    "price": 30,
+    "img": "img/products/vocalChop.jpg",
+    "alt": "",
+    "amount": 0,
+    "desc": "",
+    "sales": 0,
+    "profit": 0,
+    "genre": "trap",
+    "type": "melody" 
+    },
+    {
+    "idProduct": 9,
+    "name": "Vocals Essentials",
+    "price": 20,
+    "img": "img/products/vocalsEssentials.jpg",
+    "alt": "",
+    "amount": 0,
+    "desc": "",
+    "sales": 0,
+    "profit": 0,
+    "genre": "electronica",
+    "type": "midi" 
+    },
+    {
+    "idProduct": 8,
+    "name": "Modulus Techno",
+    "price": 10,
+    "img": "img/products/techno.jpg",
+    "alt": "",
+    "amount": 0,
+    "desc": "",
+    "sales": 0,
+    "profit": 0,
+    "genre": "electronica",
+    "type": "midi" 
+    },
+
+    {
+    "idProduct": 7,
+    "name": "Argentinian Percussion",
+    "price": 15,
+    "img":"img/products/argPerc.jpg",
+    "alt":"texto alternativo",
+    "amount": 0,
+    "desc": "",
+    "sales": 0,
+    "profit": 0,
+    "genre": "electronica",
+    "type": "melody" 
+    },
+
+    {
+    "idProduct":6,
+    "name":"Minimal House",
+    "price":20,
+    "img":"img/products/minimal.jpg",
+    "alt":"texto alternativo",
+    "amount":0,
+    "desc":"",
+    "sales":0,
+    "profit":0,
+    "genre": "electronica",
+    "type": "drumKit" 
+    },
+
+    {
+    "idProduct":5,
+    "name":"Analog Cat Drums",
+    "price":25,
+    "img":"img/products/analogCat.jpg",
+    "alt":"texto alternativo",
+    "amount":0,
+    "desc":"",
+    "sales":0,
+    "profit":0,
+    "genre": "loFi",
+    "type": "drumKit"
+    },
+
+    {
+    "idProduct":4,
+    "name":"Lo-Fi Essentials",
+    "price":10,
+    "img":"img/products/samplePack.jpg",
+    "alt":"",
+    "amount":0,
+    "desc":"",
+    "sales":0,
+    "profit":0,
+    "genre": "hipHop",
+    "type": "midi"
+    },
+
+    {
+    "idProduct":3,
+    "name":"Tutorial",
+    "price":25,
+    "img":"img/products/samplePackI.jpg",
+    "alt":"texto alternativo",
+    "amount":0,
+    "desc":"",
+    "sales":0,
+    "profit":0
+    },
+
+    {
+    "idProduct":2,
+    "name":"Lo-Fi Midi Drums",
+    "price":35,
+    "img":"img/products/drumSampler.jpg",
+    "alt":"texto alternativo",
+    "amount":0,
+    "desc":"",
+    "sales":0,
+    "profit":0,
+    "genre": "loFi",
+    "type": "melody"
+    },
+
+    {
+    "idProduct":1,
+    "name":"Hip Hop Essentials",
+    "price":35,
+    "img":"img/products/lofiPack.jpg",
+    "alt":"texto alternativo",
+    "amount":0,
+    "desc":"",
+    "sales":0,
+    "profit":0,
+    "genre": "hipHop",
+    "type": "midi"
+    }
+
+]
