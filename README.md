@@ -2,7 +2,8 @@
 
 <a href="#englishReadme">English</a>
 
-![ecommercePage](https://user-images.githubusercontent.com/108038008/203833018-f2cf186e-7138-4ab1-8256-2ee4af963e5e.jpg)
+![ecommercePage](https://user-images.githubusercontent.com/108038008/203833277-cba22530-fb1e-4787-a3e5-469c4184482b.jpg)
+
 
 <p>📄En este repositorio podrás encontrar la simulación de un e-commerce que construí a lo largo del curso de JavaScript de Coder House, donde aprendí los fundamentos de este lenguaje de programación. En esta página podrán emular la compra de productos digitales utilizados en la producción musical y calcular el costo del mismo.</p>
 
@@ -22,7 +23,7 @@
 
 [Spanish](#Bienvenidos-al-repositorio-del-ecommerce-de-Pico-Tres-Estudio)
 
-![ecommercePage](https://user-images.githubusercontent.com/108038008/203833067-61b8805d-9f5c-4acd-a025-5a6c3fc01072.jpg)
+![ecommercePage](https://user-images.githubusercontent.com/108038008/203833277-cba22530-fb1e-4787-a3e5-469c4184482b.jpg)
 
 <p>📄In this repository you can find the simulation of an e-commerce that I built during Coder House's JavaScript course, where I learned the basics of this programming language. On this page you can emulate the purchase of digital products used in music production and calculate the cost of it.</p>
 
