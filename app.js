@@ -65,7 +65,7 @@ midiFilter.addEventListener("click", () => {
 const priceFilter = document.querySelector(".bestPrice");
 priceFilter.addEventListener("click", () => {
     productContainer.innerHTML = '';
-    const bestPrice = productos.filter(product => product.price <= 1200);
+    const bestPrice = productos.filter(product => product.price <= 20);
     addCards(bestPrice);
 })
 
