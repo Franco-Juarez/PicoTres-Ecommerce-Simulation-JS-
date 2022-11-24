@@ -114,7 +114,7 @@ function addDeleteAction () {
             if (res.isConfirmed) {
                  Swal.fire (
                     "Deleted",
-                    "The product has been deleted.", 
+                    "The product has been deleted", 
                     "success",  
                 ) 
                 deleteProductCart(item.value);
