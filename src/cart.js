@@ -26,11 +26,11 @@ emptyCart.addEventListener("click", () =>{
         showCancelButton: true,
         confirmButtonColor: '#121214',
         cancelButtonColor: '#d33',
-        confirmButtonText: 'Yes, empty the cart.'
+        confirmButtonText: 'Yes, empty the cart'
       }).then((result) => {
         if (result.isConfirmed) {
         Swal.fire({
-            title:'The cart is empty.',
+            title:'The cart is empty',
             icon: "success",
             confirmButtonColor: '#121214',
             })
@@ -48,7 +48,7 @@ finalBuyBtn.addEventListener("click", () => {
         showCancelButton: true,
         confirmButtonColor: '#121214',
         cancelButtonColor: '#d33',
-        confirmButtonText: 'Yes, confirm the purchase.'
+        confirmButtonText: 'Yes, confirm the purchase'
       }).then((result) => {
         if (result.isConfirmed) {
             Swal.fire({
